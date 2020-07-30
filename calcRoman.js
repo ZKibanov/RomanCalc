@@ -87,5 +87,5 @@ const calculator = (string)=> {
     let dataInProcess = stringParcingToArray(string);
     return ckeckIntegrityAndCompute(dataInProcess);
 };
-alert(calculator('V + X'));
+console.log(calculator('V + X'));
  // Не трогайте эту строчку
