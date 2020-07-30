@@ -87,9 +87,4 @@ const calculator = (string)=> {
     let dataInProcess = stringParcingToArray(string);
     return ckeckIntegrityAndCompute(dataInProcess);
 };
-<<<<<<< HEAD
 alert(calculator('VII + X'));
-=======
-alert(calculator('V + X'));
- // Не трогайте эту строчку
->>>>>>> parent of 4c0e477... Exam 2 vers
