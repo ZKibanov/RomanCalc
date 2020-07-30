@@ -87,4 +87,4 @@ const calculator = (string)=> {
     let dataInProcess = stringParcingToArray(string);
     return ckeckIntegrityAndCompute(dataInProcess);
 };
-alert(calculator('VII + X'));
+alert(calculator('VIII + X'));
